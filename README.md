@@ -7,4 +7,4 @@
 [![GitHub Actions Build History](https://buildstats.info/github/chart/RehanSaeed/FastestNuGet?branch=main&includeBuildsFromPullRequest=false)](https://github.com/RehanSaeed/FastestNuGet/actions)
 
 
-.NET Docs Rocks!
+.NET Docs Rocks!!
